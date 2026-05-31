@@ -20,7 +20,7 @@ My work includes:
 - Web scraping systems
 - Telegram bots
 - Security-focused projects
-- Business management systems
+- Business management systems.
 
 ## ✨ Features
 
