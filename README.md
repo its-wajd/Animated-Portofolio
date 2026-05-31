@@ -141,7 +141,7 @@ Special thanks to [@Ahmed-GoCode](https://github.com/Ahmed-GoCode) for support a
 
 ```txt
 Portfolio: https://its-wajd.dev
-GitHub: https://github.com/iits-wajd
+GitHub: https://github.com/its-wajd
 ```
 
 ## 📄 License
